@@ -1,0 +1,30 @@
+.body{
+   
+}
+#box{
+    background-color: #abb3ba;
+    margin-top: 200px;
+    height: 600px;
+    border-radius: 30px;
+}
+#author{
+    float: left;
+    margin-top: 10px;
+    margin-left: 70%;
+    font-size: 30px;
+}
+#quote{
+    /* margin-left: 10%; */
+    margin-top: 10px;
+    font-size: 35px;
+}
+#btn_next{
+    border-radius: 20px;
+    margin-top: 150px;
+    font-size: 23px;
+}
+#btn_tweet{
+    border-radius: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+}
